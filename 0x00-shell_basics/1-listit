@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "What’s in there?"
+ls

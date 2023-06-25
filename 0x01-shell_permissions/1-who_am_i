@@ -1,2 +1,2 @@
 #!/bin/bash
-username=$(who_am_i)
+username=$(whoami)
